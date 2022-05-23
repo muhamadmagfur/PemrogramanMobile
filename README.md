@@ -1,10 +1,10 @@
 # uts
 
-A new Flutter project.
+project UTS Pemrograman Mobile muhamad magfur 20190801021
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+terkait nim 20190801021 menyesuaikan pengerjaan soal di ambil angka nim terakhir (1), project yang di buat ialah aplikasi pelelangan
 
 A few resources to get you started if this is your first Flutter project:
 
