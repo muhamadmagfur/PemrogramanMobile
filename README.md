@@ -2,7 +2,7 @@
 
 project UTS Pemrograman Mobile muhamad magfur 20190801021
 
-## Getting Started
+## catatan
 
 terkait nim 20190801021 menyesuaikan pengerjaan soal di ambil angka nim terakhir (1), project yang di buat ialah aplikasi pelelangan
 
